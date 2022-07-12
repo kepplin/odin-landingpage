@@ -21,14 +21,17 @@ header{
     width: 75px;
 }
 
-.headerlinks,
-a{
+.headerlinks{
     display: flex;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
     font-size: 24px;
     gap: 80px;
+    margin-right: 80px;
+}
+
+a{
+    color: white;
 }
 
 /* Main Content 1 */
