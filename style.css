@@ -3,6 +3,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    text-decoration: none;
 }
 
 /* Header */
@@ -20,7 +21,8 @@ header{
     width: 75px;
 }
 
-.headerlinks{
+.headerlinks,
+a{
     display: flex;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
