@@ -118,3 +118,19 @@ a{
 .caption{
     margin-top: 10px;
 }
+
+/* Random Information Section */
+
+.info{
+    display: flex;
+    background-color: black;
+    height: 800px;
+}
+
+.boxcontainer{
+
+}
+
+.infoheader{
+    color: white;
+}
