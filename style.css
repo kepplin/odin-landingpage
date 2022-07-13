@@ -87,10 +87,12 @@ a{
     align-items: flex-start;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     gap: 10px;
+    font-size: 24px;
 }
 
 .intropara{
     width: 550px;
+    font-size: 16px;
 }
 
 .introbutton{
@@ -104,7 +106,7 @@ a{
 
 .asteroidbelt{
     height: auto;
-    width: 800px;
+    width: 700px;
 }
 
 .asteroidbeltcaption{
