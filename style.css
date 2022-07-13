@@ -56,10 +56,63 @@ a{
     margin-top: 20px;
     font-weight: lighter;
     font-family: 'Courier New', Courier, monospace;
-    color: blue;
+    color: orange;
 }
 
 .quotecontainer{
     display: flex;
     justify-content: center;
+}
+
+/* Introduction Section */
+
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.introcontent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.introtext{
+    display: flex;
+    flex-direction: column;
+    order: -1;
+    align-items: flex-start;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    gap: 10px;
+}
+
+.intropara{
+    width: 550px;
+}
+
+.introbutton{
+    background-color: orange;
+    padding: 15px 25px;
+    border: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.asteroidbelt{
+    height: auto;
+    width: 800px;
+}
+
+.asteroidbeltcaption{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.caption{
+    margin-top: 10px;
 }
