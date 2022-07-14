@@ -122,15 +122,31 @@ a{
 /* Random Information Section */
 
 .info{
-    display: flex;
+    display: block;
     background-color: black;
-    height: 800px;
 }
 
 .boxcontainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 1;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
 
+.boximage{
+    height: 300px;
+    width: 400px;
+    border: 10px solid white;
+    
 }
 
 .infoheader{
     color: white;
+    text-align: center;
+    font-size: 48px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
 }
