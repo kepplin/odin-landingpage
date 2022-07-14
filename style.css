@@ -178,9 +178,9 @@ a{
 
 .call{
     display: flex;
-    padding: 100px;
+    padding: 75px;
     position: absolute;
-    top: 2416px;
+    top: 2481px;
     color: white;
     background-color: rgba(0, 0, 0, 0.911);
     width: 100%;
