@@ -12,11 +12,7 @@ This was a project for [The Odin Project](https://www.theodinproject.com/lessons
 
 ## Credits
 
-- Inspiration template: 
-
-![inspiration](https://user-images.githubusercontent.com/107027281/211233504-b940bc87-95ea-4619-b4b0-18cfc2bafa58.png)
-
-Images from:
+- Images from:
 
 - [Pixabay](https://pixabay.com/)
 
@@ -24,5 +20,6 @@ Images from:
 
 - [SpaceX/Flickr](https://www.flickr.com/photos/spacex/).
 
+- Inspiration template: 
 
-
+![inspiration](https://user-images.githubusercontent.com/107027281/211233504-b940bc87-95ea-4619-b4b0-18cfc2bafa58.png)
