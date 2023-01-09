@@ -11,6 +11,11 @@ https://kepplin.github.io/odin-landingpage/
 This was a project for [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page). The aim of this project was to utilise flexbox. Though I did end up using it, I still found myself using absolute positioning which screwed up how the website looked on other devices.
 
 ## Credits
+
+- Inspiration template: 
+
+![inspiration](https://user-images.githubusercontent.com/107027281/211233504-b940bc87-95ea-4619-b4b0-18cfc2bafa58.png)
+
 Images from:
 
 - [Pixabay](https://pixabay.com/)
