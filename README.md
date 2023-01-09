@@ -14,11 +14,11 @@ This was a project for [The Odin Project](https://www.theodinproject.com/lessons
 
 - Images from:
 
-- [Pixabay](https://pixabay.com/)
+  - [Pixabay](https://pixabay.com/)
 
-- [BBC](https://www.bbc.com/)
+  - [BBC](https://www.bbc.com/)
 
-- [SpaceX/Flickr](https://www.flickr.com/photos/spacex/).
+  - [SpaceX/Flickr](https://www.flickr.com/photos/spacex/).
 
 - Inspiration template: 
 
